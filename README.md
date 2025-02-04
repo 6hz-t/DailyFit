@@ -9,7 +9,7 @@
 
 ## 技术栈
 - **编程语言**：Java
-- **布局管理**：ConstraintLayout、LinearLayout
+- **Android API**:31
 - **数据存储**：SQLite
 
 ## 界面展示
