@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Daily Fit</string>
+    <string name="gender_prompt">请选择性别</string>
+    <string name="age_hint">请输入年龄</string>
+    <string name="height_hint">请输入身高（cm）</string>
+    <string name="weight_hint">请输入体重（kg）</string>
+    <string name="body_fat_hint">请输入体脂率（%）</string>
+    <string name="save_button_text">保存</string>
+
+</resources>
