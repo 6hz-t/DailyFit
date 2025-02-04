@@ -15,7 +15,7 @@
 ## 界面展示
 |运动记录上传界面|运动记录列表界面|个人信息管理界面|
 |----|----|----|
-|![运动记录上传界面](/images/demo2.jpg)|![运动记录列表界面](/images/demo3.jpg)|![个人信息管理界面](/images/demo1.jpg)|
+|<img src="/images/demo2.jpg" width="300px">|<img src="/images/demo3.jpg" width="300px">|<img src="/images/demo1.jpg" width="300px">|
 
 ## 使用方法
 1. **记录运动**：点击“记录一下”按钮，填写运动相关信息并选择图片，点击“保存记录”。
@@ -46,7 +46,7 @@ This is an Android application that integrates the functions of sports record up
 ## Interface Display
 |Sports Record Upload Interface|Sports Record List Interface|Personal Information Management Interface|
 |----|----|----|
-|![Sports Record Upload Interface](https://i.imgur.com/xxxxxx.png)|![Sports Record List Interface](https://i.imgur.com/xxxxxx.png)|![Personal Information Management Interface](https://i.imgur.com/xxxxxx.png)|
+|<img src="/images/demo2.jpg" width="300px">|<img src="/images/demo3.jpg" width="300px">|<img src="/images/demo1.jpg" width="300px">|
 
 ## Usage
 1. **Record Sports**: Click the "Record" button, fill in the sports - related information and select a picture, then click "Save Record".
