@@ -29,6 +29,8 @@
 ## 开源协议
 本项目基于[MIT协议](LICENSE)开源。
 
+
+
 # Sports Record and Personal Information Management App
 ## Introduction
 This is an Android application that integrates the functions of sports record uploading and personal information management. Users can record sports information, including the date, time, type of sports, and relevant pictures. At the same time, they can also manage personal basic information such as gender, age, height, weight, and body fat percentage.
@@ -40,7 +42,7 @@ This is an Android application that integrates the functions of sports record up
 
 ## Technology Stack
 - **Programming Language**: Java
-- **Layout Management**: ConstraintLayout, LinearLayout
+- **Android API**: 31
 - **Data Storage**: SQLite
 
 ## Usage
