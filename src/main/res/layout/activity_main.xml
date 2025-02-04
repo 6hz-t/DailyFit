@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <!-- 标题 -->
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="运动记录"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginTop="23dp"
+        android:layout_marginStart="16dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <!-- 记录一下按钮 -->
+
+    <!-- 个人主页浮动按钮 -->
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView_sport_records"
+        android:layout_width="404dp"
+        android:layout_height="601dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="65dp"
+        android:padding="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_title"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <Button
+        android:id="@+id/but"
+        android:layout_width="192dp"
+        android:layout_height="41dp"
+        android:layout_marginBottom="4dp"
+        android:background="@android:color/darker_gray"
+        android:padding="5dp"
+        android:text="记录一下"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/recyclerView_sport_records" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab_profile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:contentDescription="个人主页"
+        android:src="@android:drawable/ic_menu_my_calendar"
+        app:elevation="6dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- 运动记录 RecyclerView -->
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
