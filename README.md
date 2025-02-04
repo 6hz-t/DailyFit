@@ -43,11 +43,6 @@ This is an Android application that integrates the functions of sports record up
 - **Layout Management**: ConstraintLayout, LinearLayout
 - **Data Storage**: SQLite
 
-## Interface Display
-|Sports Record Upload Interface|Sports Record List Interface|Personal Information Management Interface|
-|----|----|----|
-|<img src="/images/demo2.jpg" width="300px">|<img src="/images/demo3.jpg" width="300px">|<img src="/images/demo1.jpg" width="300px">|
-
 ## Usage
 1. **Record Sports**: Click the "Record" button, fill in the sports - related information and select a picture, then click "Save Record".
 2. **View Records**: View the sports record list on the main page.
