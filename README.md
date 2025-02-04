@@ -15,7 +15,7 @@
 ## 界面展示
 |运动记录上传界面|运动记录列表界面|个人信息管理界面|
 |----|----|----|
-|![运动记录上传界面](https://i.imgur.com/xxxxxx.png)|![运动记录列表界面](https://i.imgur.com/xxxxxx.png)|![个人信息管理界面](https://i.imgur.com/xxxxxx.png)|
+|![运动记录上传界面](./images/demo2.png)|![运动记录列表界面](./images/demo3.png)|![个人信息管理界面](./images/demo1.png)|
 
 ## 使用方法
 1. **记录运动**：点击“记录一下”按钮，填写运动相关信息并选择图片，点击“保存记录”。
